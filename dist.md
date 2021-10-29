@@ -1029,7 +1029,7 @@ todos.
 ## Búsqueda de desaparecidos
 
 El proceso de búsqueda de personas desaparecidas con enfoque humanitario creado
-por la Ley N° 30470 será una prioridad. Este propone brindar respuesta a los
+por la Ley No 30470 será una prioridad. Este propone brindar respuesta a los
 familiares sobre el paradero o destino final de sus seres queridos. La meta
 propuesta en este Plan es determinar el destino o paradero final de por lo
 menos 3,030 personas desaparecidas al 2026.  A través del Ministerio de
