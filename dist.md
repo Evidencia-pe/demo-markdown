@@ -1166,7 +1166,7 @@ intercultural en todas las instituciones del estado.
 b) Es una preocupación de este gobierno garantizar que el Ministerio de las
 Culturas ejerza a cabalidad sus competencias en materia del derecho a la
 consulta previa de los pueblos indígenas y originarios, tal como lo establece
-la Ley N° 29785.
+la Ley No 29785.
 
 c) Actualizaremos la Política Nacional para la Transversalización del Enfoque
 Intercultural, cuyo objetivo es orientar y articular la acción del Estado para
